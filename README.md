@@ -10,3 +10,8 @@ The website has a micro:bit emulator for practice without the hardware.
 Connect the micro:bit to your computer with a USB micro cable.
 
 Write the code, then upload it. The website walks you through the process.
+
+---
+
+## For 3D model uploads, use this form:
+https://forms.gle/Rt7ujyd4QHScKtJv6
