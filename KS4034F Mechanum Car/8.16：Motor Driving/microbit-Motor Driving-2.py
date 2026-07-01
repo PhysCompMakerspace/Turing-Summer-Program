@@ -1,13 +1,13 @@
 # This code demonstrates how to drive the motors using the micro:bit.
-# Add the keyes_mecanum_Car_V2 library to your project.
+# Add the keyes_mecanum_car_v2 library to your project.
 #   In python.microbit.org/v/3, click on "Project" in the lower left.
-#   "Create file" and name it "keyes_mecanum_Car_V2.py".
-#   Copy the code from "keyes_mecanum_Car_V2.py" in this repository and paste it into the new file you created.
+#   "Create file" and name it "keyes_mecanum_car_v2.py".
+#   Copy the code from "keyes_mecanum_car_v2.py" in this repository and paste it into the new file you created.
 #   Do this process each time you want to use the motor library in a new project.
 # Copy the code below into "main.py"
 
 from microbit import button_a, button_b, display, Image, sleep
-from keyes_mecanum_Car_V2 import *
+from keyes_mecanum_car_v2 import *
 mecanumCar = Mecanum_Car_Driver_V2()
 
 show_L = Image("90000:""90000:""90000:""90000:""99999")
