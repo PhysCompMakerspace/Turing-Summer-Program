@@ -1,5 +1,5 @@
 from microbit import *
-from keyes_mecanum_Car_V2 import *
+from keyes_mecanum_car_v2 import *
 import neopixel
 
 # LED array

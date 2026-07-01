@@ -1,7 +1,7 @@
 # Play sounds with different pitches based on the distance detected by the ultrasonic sensor.
 
 from microbit import *
-from keyes_mecanum_Car_V2 import *
+from keyes_mecanum_car_v2 import *
 mecanumCar = Mecanum_Car_Driver_V2()
 import music
 
