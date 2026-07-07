@@ -12,6 +12,10 @@ Connect the micro:bit to your computer with a USB micro cable.
 Write the code, then upload it. The website walks you through the process.
 
 ---
+## Tinkercad Classroom Activities:
+https://www.tinkercad.com/joinclass/V2JJFNUYC
 
+---
 ## For 3D model uploads, use this form:
 https://forms.gle/Rt7ujyd4QHScKtJv6
+
