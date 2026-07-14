@@ -7,7 +7,7 @@ val_L = 0
 val_C = 0
 val_R = 0
 
-speed = 50
+speed = 40
 
 while True:
     val_L = pin3.read_digital()
