@@ -1,5 +1,5 @@
 # Turing Summer Program
-Documents, code examples, and tutorials for the CICS Turing Summer program.
+Documents, code examples, and tutorials for the UMass Turing Summer program.
 
 ## Online editor for micropython on the micro:bit:
 https://python.microbit.org/v/3
